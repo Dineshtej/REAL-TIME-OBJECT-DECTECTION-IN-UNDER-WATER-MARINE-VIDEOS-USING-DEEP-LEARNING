@@ -1,0 +1,7 @@
+runs/
+*.pt
+__pycache__/
+*.pyc
+.env
+venv/
+yoloenv/
